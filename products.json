@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Dunk Low Panda",
+    "basePrice": 17000,
+    "description": "Le classique monochrome qui ne se démode jamais. Parfait pour un style streetwear authentique.",
+    "image": "https://i.pinimg.com/736x/62/87/3e/62873ee8d9b848ea012f1508b7abac4a.jpg",
+    "colors": [
+      {
+        "name": "Panda",
+        "hex": "#000000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodbCCWvYl0PW9iboxGqyu-lVDSYfbKFyOAg&s"
+      },
+      {
+        "name": "Grey Fog",
+        "hex": "#9ca3af",
+        "image": "https://i.pinimg.com/736x/c7/aa/ae/c7aaaefc9babdd442a28910dd51a5649.jpg"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff",
+        "image": "https://i.pinimg.com/736x/40/c4/ab/40c4ab1be1f6f35e8116e3fdd3ac6a58.jpg"
+      }
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "category": "men",
+    "outOfStock": false
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Force 1",
+    "basePrice": 15000,
+    "description": "L'icône intemporelle. Un must-have dans toute collection de sneakers.",
+    "image": "https://i.pinimg.com/1200x/a2/c2/55/a2c25532272b79b776be5e106833091f.jpg",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#ffffff",
+        "image": "https://i.pinimg.com/1200x/a2/c2/55/a2c25532272b79b776be5e106833091f.jpg"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "image": "https://i.pinimg.com/736x/ee/a5/95/eea595381269a0aca236750bbb8de90a.jpg"
+      },
+      {
+        "name": "Red",
+        "hex": "#dc2626",
+        "image": "https://i.pinimg.com/1200x/91/19/21/911921184f39f9ded76af55f69964e78.jpg"
+      }
+    ],
+    "sizes": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "category": "unisex",
+    "outOfStock": false
+  },
+  {
+    "id": 3,
+    "name": "Adidas Campus 00s",
+    "basePrice": 19000,
+    "description": "Le retour des années 2000 avec ce classique Adidas remis au goût du jour.",
+    "image": "https://i.pinimg.com/1200x/60/d7/8b/60d78bbbfb8998951df5cb0ff673111c.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "image": "https://i.pinimg.com/1200x/60/d7/8b/60d78bbbfb8998951df5cb0ff673111c.jpg"
+      },
+      {
+        "name": "Grey",
+        "hex": "#6b7280",
+        "image": "https://i.pinimg.com/1200x/86/da/5a/86da5ab51dca00ed5d022ca7f27c59f7.jpg"
+      },
+      {
+        "name": "White",
+        "hex": "#f3f4f6",
+        "image": "https://i.pinimg.com/736x/91/60/f7/9160f7a827341e4fe7bf8ee1e030f210.jpg"
+      }
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "category": "unisex",
+    "outOfStock": false
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Jordan 1 Low",
+    "basePrice": 15000,
+    "description": "La légende du basketball dans sa version low-cut pour un style quotidien.",
+    "image": "https://images.unsplash.com/photo-1556906781-9a412961c28c?w=600&q=80",
+    "colors": [
+      {
+        "name": "Black Toe",
+        "hex": "#000000",
+        "image": "https://images.unsplash.com/photo-1556906781-9a412961c28c?w=600&q=80"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#2563eb",
+        "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&q=80"
+      },
+      {
+        "name": "Bred",
+        "hex": "#7f1d1d",
+        "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80"
+      }
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "category": "men",
+    "outOfStock": false
+  },
+  {
+    "id": 5,
+    "name": "New Balance 550",
+    "basePrice": 35000,
+    "description": "Le modèle vintage qui fait son grand retour. Style rétro garanti.",
+    "image": "https://www.laces.mx/cdn/shop/files/New-Balance-550-White-Red-BB550STF-zoom.png?v=1774053535",
+    "colors": [
+      {
+        "name": "White Red",
+        "hex": "#dc2626",
+        "image": "https://www.laces.mx/cdn/shop/files/New-Balance-550-White-Red-BB550STF-zoom.png?v=1774053535"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1e3a8a",
+        "image": "https://images.stockx.com/images/New-Balance-550-White-Navy-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color"
+      },
+      {
+        "name": "Green",
+        "hex": "#166534",
+        "image": "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500"
+      }
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "category": "unisex",
+    "outOfStock": false
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Max 95",
+    "basePrice": 27000,
+    "description": "Design futuriste et confort exceptionnel avec l'unité Air visible.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgK25s6uzTE2fLnOCTpAJjg-xNg4KOQSFPzQ&s",
+    "colors": [
+      {
+        "name": "Neon",
+        "hex": "#fbbf24",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgK25s6uzTE2fLnOCTpAJjg-xNg4KOQSFPzQ&s"
+      },
+      {
+        "name": "Grey",
+        "hex": "#4b5563",
+        "image": "https://images.stockx.com/images/Nike-Air-Max-95-Essential-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700"
+      },
+      {
+        "name": "Black",
+        "hex": "#111827",
+        "image": "https://images.stockx.com/images/Nike-Air-Max-95-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700"
+      }
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "category": "men",
+    "outOfStock": false
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Max 90",
+    "basePrice": 32000,
+    "salePrice": 27200,
+    "discount": 15,
+    "description": "L'iconique Air Max 90 avec son design visible et son confort légendaire. Édition limitée.",
+    "image": "https://images.stockx.com/images/Nike-Air-Max-90-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700",
+    "colors": [
+      {
+        "name": "White Black",
+        "hex": "#000000",
+        "image": "https://images.stockx.com/images/Nike-Air-Max-90-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700"
+      },
+      {
+        "name": "Infrared",
+        "hex": "#ef4444",
+        "image": "https://images.stockx.com/images/Nike-Air-Max-90-Infrared-Product.jpg?fit=fill&bg=FFFFFF&w=700"
+      }
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "category": "women",
+    "outOfStock": false
+  },
+  {
+    "id": 8,
+    "name": "Adidas Samba OG",
+    "basePrice": 28000,
+    "salePrice": 23800,
+    "discount": 15,
+    "description": "La Samba revient en force. Design épuré et style football vintage.",
+    "image": "https://images.stockx.com/images/adidas-Samba-OG-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700",
+    "colors": [
+      {
+        "name": "White Black",
+        "hex": "#000000",
+        "image": "https://images.stockx.com/images/adidas-Samba-OG-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700"
+      },
+      {
+        "name": "Black Gum",
+        "hex": "#92400e",
+        "image": "https://images.stockx.com/images/adidas-Samba-OG-Black-Gum-Product.jpg?fit=fill&bg=FFFFFF&w=700"
+      }
+    ],
+    "sizes": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "category": "women",
+    "outOfStock": false
+  }
+]
